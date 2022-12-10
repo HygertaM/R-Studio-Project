@@ -1,4 +1,4 @@
-# R-Studio-Project
+# R-Studio-Project/The data are in Albanian language, but the code used is in english.
 R language Project/Application+Data Analysis/Analysing ways and conditions in which road accidents happen and finding ways to prevent them from happening again in the future.
 
 
